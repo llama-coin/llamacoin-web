@@ -1,0 +1,24 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=[""]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Llama Coin"
+ORG_URL="https://www.llama-coin.xyz"
+ORG_TWITTER="llama_coin"
+
+[[PRINCIPALS]]
+name="Llamaist"
+
+[[CURRENCIES]]
+code="LLAMA"
+issuer=""
+display_decimals=7
+name="LLAMA COIN"
+desc="We want to become a Llama Network and have our own blockchain. Llama Coin is the accidental crypto movement that makes people smile! It is also an opensource peer-to-peer cryptocurrency that utilises blockchain technology, a highly secure decentralised system of storing information as a public ledger that is maintained by a network of computers called nodes. More than this, though, is the ethos of Llama Coin, summarised in the Llama Coin Manifesto , and its amazing, vibrant community made up of friendly folks just like you!"
+conditions="Llama Coin (LLAMA) is a token for fun. There are a total of 900,000,000,000 LLAMA"
+image="https://www.llama-coin.xyz/.well-known/llamacoin.ico"
+fixed_number=900000000000
+is_asset_anchored=false
+status="live"
+
